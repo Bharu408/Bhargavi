@@ -1,0 +1,3 @@
+Hi  I am learning file handling
+ok its enoughHi  I am learning files and file handling
+ok
